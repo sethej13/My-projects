@@ -1,7 +1,0 @@
-@echo off
-:A
-color f4
-cls
-echo Add any code you want to this
-pause>nul
-goto A
